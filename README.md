@@ -15,9 +15,9 @@
 
 ## Download
 
-[Right click here to download...](./PokeCon-Installer.bat)
+[PokeCon-Installer.bat](./PokeCon-Installer.bat)
 
-上記リンクを右クリックし、「名前を付けてリンクを保存」から適当なフォルダにダウンロードしてください。
+上記リンクのRawボタンを右クリックして、「名前を付けてリンクを保存」から適当なフォルダにダウンロードしてください。
 
 ## Usage
 
