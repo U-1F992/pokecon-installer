@@ -28,5 +28,5 @@ pip install -r requirements.txt
 (
     echo\call "%%~dp0Poke-Controller-Modified\.venv\Scripts\activate.bat"
     echo\cd /d "%%~dp0Poke-Controller-Modified\SerialController"
-    echo\py -3.7 .\Window.py
+    echo\python .\Window.py
 ) > %~dp0Poke-Controller-Modified.bat
